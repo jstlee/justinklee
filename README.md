@@ -6,6 +6,7 @@ If you'd like to use this template without the footer attribution link, you can 
 
 
 **Author**
+
 Xiaoying Riley 
 [3rd Wave Media](https://themes.3rdwavemedia.com/)
 
