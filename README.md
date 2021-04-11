@@ -11,7 +11,7 @@ If you'd like to use this template without the footer attribution link, you can 
 Xiaoying Riley 
 [3rd Wave Media](https://themes.3rdwavemedia.com/)
 
-**Contact**
+**Author Contact**
 
 [Website](https://themes.3rdwavemedia.com/)
 
