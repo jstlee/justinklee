@@ -9,7 +9,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #3b3b42;
+  background: #e9e2e2;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -145,7 +145,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .desc {
-  color: #ffffff;
+  color: #778492;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -645,7 +645,7 @@ a.dotted-link:hover {
 
 /* ======= Footer ======= */
 .footer {
-  background: #32383e;
+  background: #2a2a31;
   color: #fff;
   padding: 10px 0;
 }
